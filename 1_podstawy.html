@@ -8,6 +8,24 @@
   <title>Document</title>
 </head>
 <body>
+  <h4>Dane użytkownika</h4>
+<!-- metody w formularzu: GET, POST -->
+  <form method="get" action="2_form.html">
+    <label for="firstName">Imię</label>
+    <input type="text" name="firstName" id="firstName" size="10" maxlength="8" autofocus><br><br>
+    <label for="lastName">Nazwisko</label>
+    <input type="text" name="lastName" id="lastName" autocomplete="off"><br><br>
+    <label for="pass">Hasło</label>
+    <input type="password" name="pass" id="pass"><br><br>
 
+    <input type="radio" name="color" value="red" checked>Czerwony<br><br>
+    <input type="radio" name="color" value="green">Zielony<br><br>
+    <input type="radio" name="color" value="black">Czarny<br><br>
+
+    <label for="terms">Regulamin</label>
+    <input type="checkbox" name="terms" id="terms"><br><br>
+
+    <input type="submit" value="Wyślij">
+  </form>
 </body>
 </html>
