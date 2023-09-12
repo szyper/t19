@@ -1,0 +1,14 @@
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\bin\Debug\net6.0\1_project.exe
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\bin\Debug\net6.0\1_project.deps.json
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\bin\Debug\net6.0\1_project.runtimeconfig.json
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\bin\Debug\net6.0\1_project.dll
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\bin\Debug\net6.0\1_project.pdb
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\obj\Debug\net6.0\1_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\obj\Debug\net6.0\1_project.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\obj\Debug\net6.0\1_project.AssemblyInfo.cs
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\obj\Debug\net6.0\1_project.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\obj\Debug\net6.0\1_project.dll
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\obj\Debug\net6.0\refint\1_project.dll
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\obj\Debug\net6.0\1_project.pdb
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\obj\Debug\net6.0\1_project.genruntimeconfig.cache
+C:\xampp\htdocs\git\t19\po\gr_1\1_project\obj\Debug\net6.0\ref\1_project.dll
