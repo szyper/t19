@@ -1,0 +1,7 @@
+C:\xampp\htdocs\git\t19\po\gr_1\2_project\bin\Debug\2_project.exe.config
+C:\xampp\htdocs\git\t19\po\gr_1\2_project\bin\Debug\2_project.exe
+C:\xampp\htdocs\git\t19\po\gr_1\2_project\bin\Debug\2_project.pdb
+C:\xampp\htdocs\git\t19\po\gr_1\2_project\obj\Debug\2_project.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\t19\po\gr_1\2_project\obj\Debug\2_project.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\t19\po\gr_1\2_project\obj\Debug\2_project.exe
+C:\xampp\htdocs\git\t19\po\gr_1\2_project\obj\Debug\2_project.pdb

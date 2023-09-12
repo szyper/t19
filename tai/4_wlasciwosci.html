@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Właściwości</title>
+</head>
+<body>
+  <div class="content">Zawartość strony</div>
+
+  <button class="button">
+    <span>Egzamin</span>
+  </button>
+
+  <script>
+    const btn = document.querySelector(".button");
+
+    console.log(btn.innerHTML);
+    btn.innerHTML = "<span>Egzamin Inf.03</span>";
+    console.log(btn.innerHTML);
+
+    btn.addEventListener("click", () => {
+      // document.querySelector(".content").innerHTML = "nowy tekst";
+        document.querySelector(".content").innerHTML = `
+          <h4>Imię i nazwisko</h4>
+          <p>Janusz <strong>Kowalski</strong></p>
+          <button class="clear">Wyczyść zawartość</button>
+        `;
+    });
+
+    //przycisk o klasie clear ma wyczyścić zawartość elementu .content
+    //na kolejnej lekcji omówić funkcję strzałkową
+
+  </script>
+</body>
+</html>
