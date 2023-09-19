@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    let f = function(){
+        console.log("f");
+    }
+
+    let fa = () => {
+        console.log("fa");
+    }
+
+    f();
+    fa();
+
+    ///////////////////////////////////////
+
+    [10, 8, 20, -1].sort(function(a, b){
+        console.log("sortowanie");
+    });
+
+    [10, 8, 20, -1].sort((a, b) => {
+        console.log("sortowanie - funkcja strzałkowa");
+    });
+
+    ///////////////////////////////////////
+
+    let add = function(x){
+        console.log(x+x);
+    }
+    add(10);
+
+    let add_a = (x) => {
+        console.log(x+x)
+    }
+
+    add_a(20);
+
+    let add_a2 = x => {
+        console.log(x+x)
+    }
+
+    add_a2(20);
+
+    ///////////////////////////////////////
+
+    [20, 30, -1].forEach(function(el){
+        console.log(el);
+    });
+
+
+    [20, 30, -1].sort().forEach(function(el){
+        console.log(el);
+    });
+
+
+    [20, 30, -1].sort().forEach(function(el){
+        console.log(el);
+    });
+
+
+    [20, 30, -1].sort().forEach(el => {
+        console.log(el);
+    });
+
+    ///////////////////////////////////////
+
+    let text = function (){
+        console.log("JavaScript");
+    }
+    text();
+
+
+    let text_a = () => {
+        console.log("JavaScript funkcja strzałkowa");
+    }
+    text_a();
+
+    let rectangleArea = function(a, b){
+        console.log(a * b);
+    }
+
+    rectangleArea(2,3);
+
+
+    let rectangleArea_a = (a, b) => {
+        console.log(a * b);
+    }
+
+    rectangleArea_a(2,4);
+
+    let rectangleArea_a2 = (a, b) => console.log(a * b);
+
+    rectangleArea_a2(3,4);
+
+
+  </script>
+</body>
+</html>

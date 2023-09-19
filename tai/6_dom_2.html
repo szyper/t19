@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./style_table.css">
+  <title>Document</title>
+</head>
+<body>
+  <table>
+    <tr>
+      <td>A</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>D</td>
+      <td>E</td>
+    </tr>
+  </table>
+
+  <button class="btn-green">Kliknij!</button><br>
+  <button class="btn-green">Kliknij!</button>
+
+  <div>PHP</div>
+
+  <script>
+      //btn.style.display = "none";
+    let btn = document.querySelector(".btn-green");
+    console.log(btn);
+
+    let btns = document.querySelectorAll(".btn-green");
+    console.log(btns);
+
+    let firstCell = document.querySelector("table tr td");
+    console.log(firstCell);
+
+    firstCell.style.backgroundColor = "#112233";
+    firstCell.style.color = "#FFFFFF";
+
+    let buttons = document.querySelectorAll("button");
+    for (let btn of buttons){
+        console.log(btn);
+    }
+
+    buttons[1].style.color = "red";
+
+    console.clear();
+
+
+//zmienić kolor tła wszystkich parzystych komórek w tabeli na niebieski a kolor teksu na zielony
+// wykorzystać , querySelectorAll, foreach i funkcję strzałkową
+
+   let cell = document.querySelectorAll("table tr td");
+   let count = 0;
+   cell.forEach(td => {
+       count++;
+       //console.log(td.innerHTML);
+       //console.log(count);
+       if (count % 2 === 0){
+           //console.log("parzyste");
+           td.style.backgroundColor = "blue";
+           td.style.color = "green";
+       }
+   });
+
+  </script>
+
+</body>
+</html>
