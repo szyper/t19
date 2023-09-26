@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<!-- właściwości elementów -->
+  <button id="btn1">Przycisk 1</button>
+  <script>
+    const btn1 = document.querySelector("#btn1");
+    btn1.addEventListener("click", () => {
+        console.log(btn1);
+        console.dir(btn1);
+    });
+  </script>
+<br><hr>
+<!-- innerHtml -->
+  <button class="button" id="btn2">Zmień tekst</button>
+  <script>
+    const btn2 = document.querySelector("#btn2");
+    btn2.addEventListener("click", () => {
+        console.log("%cKliknięto przycisk", "color:rgb(200,100,0); font-weight:bold");
+        console.dir(btn2);
+        console.log("innerHTML: ", btn2.innerHTML);
+        btn2.innerHTML = "Kliknięto przycisk!";
+        console.log("innerHTML po kliknięciu przycisku: ", btn2.innerHTML);
+    });
+
+  </script>
+  <br><hr>
+<!-- ################################## -->
+
+  <div id="divContent">Brak danych użytkownika</div><br><br>
+  <button id="btn3">Zmień zawartość div-a</button>
+
+  <script>
+      const divContent = document.querySelector("#divContent");
+      const btn3 = document.querySelector("#btn3");
+      btn3.addEventListener("click", () => {
+          console.log(divContent.innerHTML);
+          console.dir(divContent);
+          divContent.innerHTML = `
+            <div>
+              <h2>Dane użytkownika</h2>
+              <p>Janusz <strong>Kowalski</strong></p>
+              <button>Kliknij</button>
+            </div>
+          `;
+      });
+  </script>
+  <br><hr>
+<!-- ################################################# -->
+<!-- innerTEXT oraz textContent -->
+
+  <div id="textContentA">
+    <span style="display:none">Ukryty span</span>
+    <span>Widoczny span, obok dwa niewidoczne span-y</span>
+    <span style="visibility:hidden">Niewidoczny span</span>
+  </div>
+
+  <div id="textContentB">
+    Imię i nazwisko: Janusz Kowalski
+  </div>
+
+  <button id="btn4">Kliknij</button>
+
+  <script>
+    const btn4 = document.querySelector("#btn4");
+    const textContentA = document.querySelector("#textContentA");
+    const textContentB = document.querySelector("#textContentB");
+
+    btn4.addEventListener("click", () => {
+        console.log("%cUkryte span-y: ", "color:red; font-weight:bold");
+        console.log("%cinnerHTML", "font-weight:bold");
+        console.log(textContentA.innerHTML);
+        console.log("%cinnerText", "font-weight:bold");
+        console.log(textContentA.innerText);
+        console.log("%ctextContent", "font-weight:bold");
+        console.log(textContentA.textContent);
+    });
+  </script>
+
+</body>
+</html>

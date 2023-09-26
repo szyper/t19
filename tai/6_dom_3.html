@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+  <div class="test">
+    <span>a</span>
+    <span>b</span>
+    <span>c</span>
+    <span>d</span>
+    <span>e</span>
+  </div>
+  <p>Naciśnij F12 i wyświetl console</p>
+  <button id="testBtn">Zatwierdź</button>
+  <script>
+
+    const btn = document.querySelector("#testBtn");
+    btn.addEventListener("click", () => {
+       const spanA = document.querySelectorAll("span");
+       console.log("querySelectorall: ", spanA);
+       const spanB = document.getElementsByTagName("span");
+        console.log("getElementsByTagName: ", spanB);
+    });
+
+
+
+  </script>
+
+<!-- ############################################### -->
+
+  <div id="test">Testowy</div>
+  <script>
+      console.log(test);
+      console.log(testBtn);
+  </script>
+
+</body>
+</html>
