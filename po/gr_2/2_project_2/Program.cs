@@ -25,7 +25,7 @@ namespace _2_project_2
       // typy danych
       /*
        * int 16, 32, 64
-       * byte 0 - 255
+       * byte 0 - 255 (8 bitów => 1 bajt)
        * sbyte -128 - 127
        * short -32768 - 32767
        * int -2 147 483 648 - 2 147 483 647 
