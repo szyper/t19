@@ -1,0 +1,14 @@
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\bin\Debug\net7.0\3_project.exe
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\bin\Debug\net7.0\3_project.deps.json
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\bin\Debug\net7.0\3_project.runtimeconfig.json
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\bin\Debug\net7.0\3_project.dll
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\bin\Debug\net7.0\3_project.pdb
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\obj\Debug\net7.0\3_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\obj\Debug\net7.0\3_project.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\obj\Debug\net7.0\3_project.AssemblyInfo.cs
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\obj\Debug\net7.0\3_project.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\obj\Debug\net7.0\3_project.dll
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\obj\Debug\net7.0\refint\3_project.dll
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\obj\Debug\net7.0\3_project.pdb
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\obj\Debug\net7.0\3_project.genruntimeconfig.cache
+C:\xampp\htdocs\git\t19\po\gr_1\3_project\obj\Debug\net7.0\ref\3_project.dll

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<input type="button" value="klik" name="button">
+
+<script>
+  const btn = document.querySelector("input");
+  /*btn.addEventListener("click", function(){
+      //console.log(btn);
+      console.log(this);
+
+      //btn.innerText = "Przycisk";
+      this.innerText = "PRZYCISK";
+  });*/
+
+  /*
+  btn.addEventListener("click", () => {
+      //console.log(btn);
+      //console.log(this);
+
+      //btn.innerText = "Przycisk";
+      this.innerText = "PRZYCISK"; // nie działa w funkcji strzałkowej
+  });*/
+
+  //################################################
+
+  btn.addEventListener("click", e => {
+      console.log(e);
+  });
+
+</script>
+
+<form action="http://wp.pl" id="form_wp">
+  <hr><input type="text" name="name" id="name" placeholder="Imię" autofocus><br><br>
+  <input type="submit" value="Zatwierdź">
+</form><br><br>
+
+<form>
+  <input type="submit" value="Wyczyść konsolę" id="btn_clear">
+</form>
+
+<script>
+  const input = document.querySelector("#name");
+  const btn_clear = document.querySelector("#btn_clear");
+
+  input.addEventListener("mouseover", e => {
+      console.log(e);
+  });
+
+  input.addEventListener("keydown", e => {
+      console.log(e.key)
+  });
+
+  btn_clear.addEventListener("clear", () => {
+     console.clear();
+  });
+</script>
+
+<!--wstrzymanie akcji-->
+<script>
+  //blokada wysłąnia formularza
+  const form_wp = document.querySelector("#form_wp");
+  form_wp.addEventListener("submit", e => {
+     e.preventDefault();
+      console.log("Blokada formularza");
+  });
+
+  //blokada wpisywania w formularzu
+  form_wp.addEventListener("keydown", e => {
+      e.preventDefault();
+      console.log("Blokada wpisywania w formularzu");
+  });
+
+
+</script>
+
+
+</body>
+</html>
