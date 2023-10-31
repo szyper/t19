@@ -1,0 +1,14 @@
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\bin\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.exe
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\bin\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.deps.json
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\bin\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.runtimeconfig.json
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\bin\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.dll
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\bin\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.pdb
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\obj\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\obj\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.AssemblyInfoInputs.cache
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\obj\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.AssemblyInfo.cs
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\obj\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.csproj.CoreCompileInputs.cache
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\obj\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.dll
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\obj\Debug\net7.0\refint\4_project_2_try_catch_liczba_calkowita.dll
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\obj\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.pdb
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\obj\Debug\net7.0\4_project_2_try_catch_liczba_calkowita.genruntimeconfig.cache
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_2_try_catch_liczba_calkowita\obj\Debug\net7.0\ref\4_project_2_try_catch_liczba_calkowita.dll

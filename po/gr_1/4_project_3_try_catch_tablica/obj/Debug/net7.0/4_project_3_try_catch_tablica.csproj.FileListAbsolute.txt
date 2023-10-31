@@ -1,0 +1,14 @@
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\bin\Debug\net7.0\4_project_3_try_catch_tablica.exe
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\bin\Debug\net7.0\4_project_3_try_catch_tablica.deps.json
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\bin\Debug\net7.0\4_project_3_try_catch_tablica.runtimeconfig.json
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\bin\Debug\net7.0\4_project_3_try_catch_tablica.dll
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\bin\Debug\net7.0\4_project_3_try_catch_tablica.pdb
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\obj\Debug\net7.0\4_project_3_try_catch_tablica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\obj\Debug\net7.0\4_project_3_try_catch_tablica.AssemblyInfoInputs.cache
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\obj\Debug\net7.0\4_project_3_try_catch_tablica.AssemblyInfo.cs
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\obj\Debug\net7.0\4_project_3_try_catch_tablica.csproj.CoreCompileInputs.cache
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\obj\Debug\net7.0\4_project_3_try_catch_tablica.dll
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\obj\Debug\net7.0\refint\4_project_3_try_catch_tablica.dll
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\obj\Debug\net7.0\4_project_3_try_catch_tablica.pdb
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\obj\Debug\net7.0\4_project_3_try_catch_tablica.genruntimeconfig.cache
+C:\Users\Admin_\Desktop\2e_gr_1\4_project_3_try_catch_tablica\obj\Debug\net7.0\ref\4_project_3_try_catch_tablica.dll

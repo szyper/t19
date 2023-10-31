@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <link rel="stylesheet" href="./div.css">
+</head>
+<body>
+  <div class="container">
+    <div class="block" id="testMouseOver">Najedź kursorem</div>
+  </div>
+<script>
+  const div = document.querySelector("#testMouseOver");
+  div.addEventListener("mouseover", () => {
+    console.log("%c mouseover", "color:red");
+  });
+  div.addEventListener("mousemove", () => {
+     console.log("%c mousemove", "color:blue");
+  });
+  div.addEventListener("mouseout", () => {
+      console.log("%c mousemove", "color:green");
+  });
+
+  console.clear();
+</script>
+
+  <ul class="mouseenter">
+      <li><a href="#">Link</a></li>
+      <li><a href="#">Link</a></li>
+      <li><a href="#">Link</a></li>
+      <li><a href="#">Link</a></li>
+  </ul>
+
+  <script>
+    const ul = document.querySelector(".mouseenter");
+    ul.addEventListener("mouseover", () => {
+        console.log("mouseover")
+    });
+
+    ul.addEventListener("mouseenter", () => {
+        console.log("mouseenter")
+    });
+
+    ul.addEventListener("mouseleave", () => {
+        console.log("mouseleave")
+    });
+
+    ul.addEventListener("mouseout", () => {
+        console.log("mouseout")
+    });
+
+  </script>
+
+<div class="event">Kliknij</div>
+  <script>
+    const element = document.querySelector(".event");
+    element.addEventListener("click", e => {
+        console.log(e);
+    });
+  </script>
+</body>
+</html>

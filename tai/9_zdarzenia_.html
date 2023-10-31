@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form method="get">
+        <input type="text" name="number_1" id="number_1" placeholder="Podaj pierwszą liczbę" autofocus><br><br>
+        <input type="text" name="number_2" id="number_2" placeholder="Podaj drugą liczbę"><br><br>
+        <input type="submit" name="button" id="button" value="Oblicz">
+    </form>
+    <div class="result">
+
+    </div>
+    <script>
+        const btn = document.querySelector("#button");
+        const div = document.querySelector(".result");
+        const input1 = document.getElementById("number_1");
+        const input2 = document.getElementById("number_2");
+        btn.addEventListener("click", (event) => {
+            event.preventDefault();
+            console.log("text");
+            let a = parseFloat(input1.value);
+            let b = parseFloat(input2.value);
+            
+                let result = a + b; 
+                div.innerHTML = "Suma liczb " + a + " oraz " + b + " wynosi " + result;
+                        
+        });
+
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\bin\Debug\net7.0\4_project_1_try_catch.exe
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\bin\Debug\net7.0\4_project_1_try_catch.deps.json
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\bin\Debug\net7.0\4_project_1_try_catch.runtimeconfig.json
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\bin\Debug\net7.0\4_project_1_try_catch.dll
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\bin\Debug\net7.0\4_project_1_try_catch.pdb
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\obj\Debug\net7.0\4_project_1_try_catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\obj\Debug\net7.0\4_project_1_try_catch.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\obj\Debug\net7.0\4_project_1_try_catch.AssemblyInfo.cs
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\obj\Debug\net7.0\4_project_1_try_catch.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\obj\Debug\net7.0\4_project_1_try_catch.dll
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\obj\Debug\net7.0\refint\4_project_1_try_catch.dll
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\obj\Debug\net7.0\4_project_1_try_catch.pdb
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\obj\Debug\net7.0\4_project_1_try_catch.genruntimeconfig.cache
+C:\xampp\htdocs\git\t19\po\gr_1\4_project_1_try_catch\obj\Debug\net7.0\ref\4_project_1_try_catch.dll
