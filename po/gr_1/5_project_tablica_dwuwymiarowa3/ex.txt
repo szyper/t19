@@ -1,0 +1,3 @@
+Napisz program, który wczytuje z klawiatury liczbê n i tworzy tablicê dwuwymiarow¹ o wymiarach n x n. 
+Nastêpnie program wype³nia tablicê liczbami losowymi z zakresu od 1 do 100 i wyœwietla jej zawartoœæ na ekranie.
+Na koniec program oblicza i wyœwietla sumê elementów znajduj¹cych siê na g³ównej przek¹tnej tablicy.
