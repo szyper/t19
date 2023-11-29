@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "5_project_tablica_dwuwymiarowa_3_wymiarowa_3/1.0.0": {
+        "runtime": {
+          "5_project_tablica_dwuwymiarowa_3_wymiarowa_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5_project_tablica_dwuwymiarowa_3_wymiarowa_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

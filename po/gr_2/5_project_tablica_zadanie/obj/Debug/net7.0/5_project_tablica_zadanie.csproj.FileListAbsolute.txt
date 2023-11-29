@@ -1,0 +1,14 @@
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\bin\Debug\net7.0\5_project_tablica_zadanie.exe
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\bin\Debug\net7.0\5_project_tablica_zadanie.deps.json
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\bin\Debug\net7.0\5_project_tablica_zadanie.runtimeconfig.json
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\bin\Debug\net7.0\5_project_tablica_zadanie.dll
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\bin\Debug\net7.0\5_project_tablica_zadanie.pdb
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\obj\Debug\net7.0\5_project_tablica_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\obj\Debug\net7.0\5_project_tablica_zadanie.AssemblyInfoInputs.cache
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\obj\Debug\net7.0\5_project_tablica_zadanie.AssemblyInfo.cs
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\obj\Debug\net7.0\5_project_tablica_zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\obj\Debug\net7.0\5_project_tablica_zadanie.dll
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\obj\Debug\net7.0\refint\5_project_tablica_zadanie.dll
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\obj\Debug\net7.0\5_project_tablica_zadanie.pdb
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\obj\Debug\net7.0\5_project_tablica_zadanie.genruntimeconfig.cache
+C:\Users\Admin_\Desktop\2eg2\5_project_tablica_zadanie\obj\Debug\net7.0\ref\5_project_tablica_zadanie.dll

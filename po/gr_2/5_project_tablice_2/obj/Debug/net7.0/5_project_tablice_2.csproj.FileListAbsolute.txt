@@ -1,0 +1,14 @@
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\bin\Debug\net7.0\5_project_tablice_2.exe
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\bin\Debug\net7.0\5_project_tablice_2.deps.json
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\bin\Debug\net7.0\5_project_tablice_2.runtimeconfig.json
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\bin\Debug\net7.0\5_project_tablice_2.dll
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\bin\Debug\net7.0\5_project_tablice_2.pdb
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\obj\Debug\net7.0\5_project_tablice_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\obj\Debug\net7.0\5_project_tablice_2.AssemblyInfoInputs.cache
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\obj\Debug\net7.0\5_project_tablice_2.AssemblyInfo.cs
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\obj\Debug\net7.0\5_project_tablice_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\obj\Debug\net7.0\5_project_tablice_2.dll
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\obj\Debug\net7.0\refint\5_project_tablice_2.dll
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\obj\Debug\net7.0\5_project_tablice_2.pdb
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\obj\Debug\net7.0\5_project_tablice_2.genruntimeconfig.cache
+C:\Users\Admin_\Desktop\2eg2\5_project_tablice_2\obj\Debug\net7.0\ref\5_project_tablice_2.dll
