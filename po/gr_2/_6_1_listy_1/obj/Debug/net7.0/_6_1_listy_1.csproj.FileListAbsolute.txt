@@ -1,0 +1,14 @@
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\bin\Debug\net7.0\_6_1_listy_1.exe
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\bin\Debug\net7.0\_6_1_listy_1.deps.json
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\bin\Debug\net7.0\_6_1_listy_1.runtimeconfig.json
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\bin\Debug\net7.0\_6_1_listy_1.dll
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\bin\Debug\net7.0\_6_1_listy_1.pdb
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\obj\Debug\net7.0\_6_1_listy_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\obj\Debug\net7.0\_6_1_listy_1.AssemblyInfoInputs.cache
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\obj\Debug\net7.0\_6_1_listy_1.AssemblyInfo.cs
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\obj\Debug\net7.0\_6_1_listy_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\obj\Debug\net7.0\_6_1_listy_1.dll
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\obj\Debug\net7.0\refint\_6_1_listy_1.dll
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\obj\Debug\net7.0\_6_1_listy_1.pdb
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\obj\Debug\net7.0\_6_1_listy_1.genruntimeconfig.cache
+C:\Users\Admin_\Desktop\2eg2\_6_1_listy_1\obj\Debug\net7.0\ref\_6_1_listy_1.dll

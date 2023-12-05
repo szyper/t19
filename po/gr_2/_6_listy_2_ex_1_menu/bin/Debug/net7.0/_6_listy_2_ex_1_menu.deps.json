@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "_6_listy_2_ex_1_menu/1.0.0": {
+        "runtime": {
+          "_6_listy_2_ex_1_menu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_6_listy_2_ex_1_menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

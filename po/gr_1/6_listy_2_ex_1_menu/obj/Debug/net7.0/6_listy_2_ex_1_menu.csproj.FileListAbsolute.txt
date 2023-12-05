@@ -1,0 +1,14 @@
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\bin\Debug\net7.0\6_listy_2_ex_1_menu.exe
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\bin\Debug\net7.0\6_listy_2_ex_1_menu.deps.json
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\bin\Debug\net7.0\6_listy_2_ex_1_menu.runtimeconfig.json
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\bin\Debug\net7.0\6_listy_2_ex_1_menu.dll
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\bin\Debug\net7.0\6_listy_2_ex_1_menu.pdb
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\obj\Debug\net7.0\6_listy_2_ex_1_menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\obj\Debug\net7.0\6_listy_2_ex_1_menu.AssemblyInfoInputs.cache
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\obj\Debug\net7.0\6_listy_2_ex_1_menu.AssemblyInfo.cs
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\obj\Debug\net7.0\6_listy_2_ex_1_menu.csproj.CoreCompileInputs.cache
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\obj\Debug\net7.0\6_listy_2_ex_1_menu.dll
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\obj\Debug\net7.0\refint\6_listy_2_ex_1_menu.dll
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\obj\Debug\net7.0\6_listy_2_ex_1_menu.pdb
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\obj\Debug\net7.0\6_listy_2_ex_1_menu.genruntimeconfig.cache
+C:\Users\Admin_\Desktop\2eg1\6_listy_2_ex_1_menu\obj\Debug\net7.0\ref\6_listy_2_ex_1_menu.dll

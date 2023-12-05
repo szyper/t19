@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //tworzenie tekstu do przeszukania
+        let text = "Kot i pies to zwierzęta domowe. Kot jest czarny a pies białego koloru";
+        let text1 = "Kot";
+
+        //wyrażenie regularne, które szuka wszystkie słowa "kot" lub "pies"
+        let regex = /kot|pies/gi;
+
+        console.log(regex.test(text1));
+
+        //zastępowanie dopasowanych fragmentów tekstem ^*_*^
+        console.log(text.replace(regex, " ^*_*^ "));
+
+
+        ///////////////////////////////////////////////////////////////////////////////////////
+
+        //tworzymy wyrażenie regularne, które szuka liczb
+        let regex2 = /\d/g;
+
+        //tworzymy tekst do przeszukiwania
+        let text2 = "Mam 4 gruszki, 8 jabłek i 2 pomelo";
+
+        let match = text2.match(regex2);
+        console.log(match); 
+        if (match != null){
+            console.log("Ilość dopasowań: " + match.length);
+        }else{
+            console.log("Brak dopasowań");
+        }
+
+
+
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+Napisz program, który tworzy listê liczb ca³kowitych i wype³nia j¹ losowymi wartoœciami z zakresu od 1 do 100.
+Napisz program, który wyœwietla menu z piêcioma opcjami, co chcesz zrobiæ z list¹:
+Wyœwietliæ listê liczb podzielnych przez 3 lub 5
+Wyœwietliæ listê liczb nieparzystych
+Wyœwietliæ listê liczb posortowanych rosn¹co
+Wyœwietliæ listê liczb posortowanych malej¹co
+Wyjœæ z programu
+Napisz metodê dla ka¿dej opcji, która przyjmuje jako parametr listê liczb i zwraca listê liczb spe³niaj¹cych warunek danej opcji.
+Napisz kod, który obs³uguje wybór u¿ytkownika i wywo³uje odpowiedni¹ metodê, a nastêpnie wyœwietla wynikow¹ listê na konsoli.
+Napisz kod, który powtarza wyœwietlanie menu i obs³ugê wyboru, dopóki u¿ytkownik nie wybierze opcji wyjœcia z programu.
