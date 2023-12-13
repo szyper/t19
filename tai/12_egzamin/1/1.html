@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+Podaj numer kształtu<br>
+<form>
+  <input type="number" name="ksztalt" id="ksztalt"><br>
+  Skomponuj swój kolor, podaj RGB:<br>
+  R:<input type="number" id="czerwony">
+  G:<input type="number" id="zielony">
+  B:<input type="number" id="niebieski"><br><br>
+  <input type="button" value="Zamów" id="zamow">
+  <p id="tekst">Wybrany kształt</p>
+  <input type="button" onclick="zmienKolor()" value="Wybrany kolor" id="kolor">
+</form>
+<script>
+    document.querySelector('#zamow').addEventListener('click', function(){
+        let ksztalt = document.querySelector('#ksztalt').value
+        let x = "Zamówiłeś żelka: ";
+        switch(ksztalt){
+            case "1":
+                x += "miś";
+                break;
+            case "2":
+                x += "żabka";
+                break;
+            case "3":
+                x += "serce";
+                break;
+            default:
+                x += "inny kształt";
+        }
+
+        tekst.innerHTML = x;
+        //console.log(ksztalt);
+    });
+
+    function zmienKolor(){
+        var przyciskKolor = document.getElementById('kolor');
+        var r = document.getElementById("czerwony").value;
+        var g = document.getElementById("zielony").value;
+        var b = document.getElementById("niebieski").value;
+
+        przyciskKolor.style.backgroundColor = "rgb("+r+", "+g+", "+b+")";
+    }
+
+</script>
+</body>
+</html>
