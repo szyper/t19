@@ -1,0 +1,7 @@
+C:\Users\Admin_\Desktop\c#\gr_2\9_1_klasy\bin\Debug\9_1_klasy.exe.config
+C:\Users\Admin_\Desktop\c#\gr_2\9_1_klasy\bin\Debug\9_1_klasy.exe
+C:\Users\Admin_\Desktop\c#\gr_2\9_1_klasy\bin\Debug\9_1_klasy.pdb
+C:\Users\Admin_\Desktop\c#\gr_2\9_1_klasy\obj\Debug\9_1_klasy.csproj.AssemblyReference.cache
+C:\Users\Admin_\Desktop\c#\gr_2\9_1_klasy\obj\Debug\9_1_klasy.csproj.CoreCompileInputs.cache
+C:\Users\Admin_\Desktop\c#\gr_2\9_1_klasy\obj\Debug\9_1_klasy.exe
+C:\Users\Admin_\Desktop\c#\gr_2\9_1_klasy\obj\Debug\9_1_klasy.pdb
