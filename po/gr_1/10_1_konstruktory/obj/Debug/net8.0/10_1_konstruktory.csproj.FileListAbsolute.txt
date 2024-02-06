@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\bin\Debug\net8.0\10_1_konstruktory.exe
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\bin\Debug\net8.0\10_1_konstruktory.deps.json
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\bin\Debug\net8.0\10_1_konstruktory.runtimeconfig.json
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\bin\Debug\net8.0\10_1_konstruktory.dll
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\bin\Debug\net8.0\10_1_konstruktory.pdb
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\obj\Debug\net8.0\10_1_konstruktory.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\obj\Debug\net8.0\10_1_konstruktory.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\obj\Debug\net8.0\10_1_konstruktory.AssemblyInfo.cs
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\obj\Debug\net8.0\10_1_konstruktory.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\obj\Debug\net8.0\10_1_konstruktory.sourcelink.json
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\obj\Debug\net8.0\10_1_konstruktory.dll
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\obj\Debug\net8.0\refint\10_1_konstruktory.dll
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\obj\Debug\net8.0\10_1_konstruktory.pdb
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\obj\Debug\net8.0\10_1_konstruktory.genruntimeconfig.cache
+C:\xampp\htdocs\git\t19\po\gr_1\10_1_konstruktory\obj\Debug\net8.0\ref\10_1_konstruktory.dll
