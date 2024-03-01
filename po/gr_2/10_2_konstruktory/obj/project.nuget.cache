@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8+5gkPV8X+2CyxOITbgMo9zUNVSzJiLIkNYqujQOn/UUYW07W9O2/liJWeV2jvLl5dRc5YD6QDmEQohBbP2s3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin_\\Desktop\\2024_02_27\\po\\gr_2\\10_2_konstruktory\\10_2_konstruktory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin_\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\Admin_\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Admin_\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

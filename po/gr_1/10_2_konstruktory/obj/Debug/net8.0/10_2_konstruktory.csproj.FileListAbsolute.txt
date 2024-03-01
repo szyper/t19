@@ -1,0 +1,14 @@
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\bin\Debug\net8.0\10_2_konstruktory.exe
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\bin\Debug\net8.0\10_2_konstruktory.deps.json
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\bin\Debug\net8.0\10_2_konstruktory.runtimeconfig.json
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\bin\Debug\net8.0\10_2_konstruktory.dll
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\bin\Debug\net8.0\10_2_konstruktory.pdb
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\obj\Debug\net8.0\10_2_konstruktory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\obj\Debug\net8.0\10_2_konstruktory.AssemblyInfoInputs.cache
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\obj\Debug\net8.0\10_2_konstruktory.AssemblyInfo.cs
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\obj\Debug\net8.0\10_2_konstruktory.csproj.CoreCompileInputs.cache
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\obj\Debug\net8.0\10_2_konstruktory.dll
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\obj\Debug\net8.0\refint\10_2_konstruktory.dll
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\obj\Debug\net8.0\10_2_konstruktory.pdb
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\obj\Debug\net8.0\10_2_konstruktory.genruntimeconfig.cache
+C:\Users\Admin_\Desktop\2024_02_27\po\gr_1\10_2_konstruktory\obj\Debug\net8.0\ref\10_2_konstruktory.dll
