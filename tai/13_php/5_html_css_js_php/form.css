@@ -1,0 +1,57 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightgrey;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+form {
+    width: 50%;
+    margin: 0 auto;
+    border: 2px solid darkblue;
+    padding: 20px;
+    background-color: white;
+}
+
+label {
+    display: inline-block;
+    width: 20%;
+    margin: 10px;
+}
+
+input, textarea {
+    display: inline;
+    width: 70%;
+    margin: 10px 0;
+}
+
+input[value="Wyślij"] {
+    background-color: rgb(208, 195, 195);
+    width: 60%;
+    margin: 0 auto;
+    display: block;
+}
+
+input[value="Wyślij"]:hover {
+    background-color: blanchedalmond;
+    cursor: crosshair;
+}
+
+input[type="color"] {
+    width: 10%;
+}
+
+.beige {
+    background-color: beige;;
+}
+
+#result {
+    width: 50%;
+    margin: 20px auto;
+    border: 2px solid darkblue;
+    padding: 20px;
+    background-color: white;
+}

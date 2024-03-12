@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./form.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Formularz kontaktowy</h1>
+    <!-- <form id="data"> -->
+    <form id="data" action="./sendData.php" method="post">
+        <label for="name">Imię</label>
+        <input type="text" name="name" id="name" autofocus>
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email">
+        <label for="message">Wiadomość</label>
+        <textarea name="message" id="message" cols="50" rows="4"></textarea>
+
+        <label class="beige">Płeć:</label><br>
+        <label for="male">Mężczyzna</label>
+        <input type="radio" name="gender" id="male" value="Mężczyzna">
+        <label for="female">Kobieta</label>
+        <input type="radio" name="gender" id="female" value="Kobieta">
+        <label for="other">Inna</label>
+        <input type="radio" name="gender" id="other" value="Inna">
+
+        <label class="beige">Hobby:</label><br>
+        <label for="reading">Czytanie</label>
+        <input type="checkbox" name="hobbies" id="reading" value="Czytanie">
+        <label for="sports">Sport</label>
+        <input type="checkbox" name="hobbies" id="sports" value="Sport">
+        <label for="hobbies">Muzyka</label>
+        <input type="checkbox" name="hobbies" id="music" value="Muzyka">
+
+        <label for="color">Ulubiony kolor:</label>
+        <input type="color" name="color" id="color">
+        <!-- <input type="button" value="Wyślij" onclick="showData()"> -->
+        <input type="submit" value="Wyślij">
+    </form>
+    <div id="result"></div>
+    <script>
+        function showData(){
+            //console.log("test");
+            let name = document.getElementById("name");
+            let email = document.getElementById("email");
+            let message = document.getElementById("message");
+            let gender = document.getElementsByName("gender");
+            let hobbies = document.getElementsByName("hobbies");
+            let color = document.getElementById("color");
+            //console.log(color.value);
+
+            let nameValue = name.value;
+            let emailValue = email.value;
+            let messageValue = message.value;
+            let genderValue = "";
+            let hobbiesValue = [];
+            let colorValue = color.value;
+
+            for (let i = 0; i < gender.length; i++) {
+                if (gender[i].checked) {
+                    genderValue = gender[i].value;
+                    break;
+                }
+            }
+
+            for (let i = 0; i < hobbies.length; i++) {
+                if (hobbies[i].checked) {
+                    hobbiesValue.push(hobbies[i].value);
+                }
+            }
+
+            if (nameValue && emailValue && messageValue && genderValue && hobbiesValue.length > 0 && colorValue) {
+                //console.log("ok");
+                let p = document.createElement("p");
+                p.innerHTML = "Dziękujemy za wypełnienie formularza<br>" +
+                "Imię: " + nameValue + "<br>" +
+                "Email: " + emailValue + "<br>" +
+                "Wiadomość: " + messageValue + "<br>" +
+                "Płeć: " + genderValue + "<br>" +
+                "Hobby: " + hobbiesValue.join(", ") + "<br>" +
+                "Ulubiony kolor: " + colorValue + "<br>";
+
+                let result = document.getElementById("result");
+                result.appendChild(p);
+
+                let formData = document.getElementById("data");
+                formData.reset();
+            }else{
+                alert("Proszę podać wszystkie dane");
+            }
+
+        }
+    </script>
+</body>
+</html>

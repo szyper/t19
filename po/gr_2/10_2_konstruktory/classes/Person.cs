@@ -27,8 +27,7 @@ namespace _10_2_konstruktory.classes
 
     //konstruktor domyślny jest bezparametrowy. Jeśli klasa nie ma żadnego konstruktora parametrycznego, to konstruktor domyślny jest wywoływany przy tworzeniu obiektu. Inicjuje on wszystkie pola do ich wartości domyślnych. Jeśli zdefiniujemy jakiś konstruktor parametryczny, to nie otrzymamy automatycznie konstruktora domyślnego i możemy/musimy go samodzielnie zadeklarować 
 
-    //dodać konstruktor domyślny
-    public Person() 
+    public Person()
     {
       Console.WriteLine("Konstruktor domyślny klasy Person");
       Name = "nieznane";
@@ -36,7 +35,7 @@ namespace _10_2_konstruktory.classes
       Counter++;
     }
 
-    //konstruktor parametryczny ma co najmniej jeden parametr. Służy do inicjowania pól obiektu zgodnie z wartościami podanymi przy tworzeniu obiektu. Możemy mieć wiele konstruktorów parametrycznych, o ile różnią się liczbą lub typem parametrów
+    //konstruktor parametryczny ma co najmniej jeden parametr. Służy do inicjowania pól obiektu zgodnie z wartościami podanymi przy tworzeniu obiektu. Możemy mieć wiele konstruktorów parametrycznych, o ile różnią się liczbą lub/i typem parametrów
 
     //konstruktor parametryczny z jednym parametrem
     public Person(string name)

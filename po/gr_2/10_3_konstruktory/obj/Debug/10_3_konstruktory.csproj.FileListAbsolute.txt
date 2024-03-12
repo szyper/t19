@@ -1,0 +1,7 @@
+C:\Users\Admin_\Desktop\5_03_2024\po\gr_1\10_3_konstruktory\bin\Debug\10_3_konstruktory.exe.config
+C:\Users\Admin_\Desktop\5_03_2024\po\gr_1\10_3_konstruktory\bin\Debug\10_3_konstruktory.exe
+C:\Users\Admin_\Desktop\5_03_2024\po\gr_1\10_3_konstruktory\bin\Debug\10_3_konstruktory.pdb
+C:\Users\Admin_\Desktop\5_03_2024\po\gr_1\10_3_konstruktory\obj\Debug\10_3_konstruktory.csproj.AssemblyReference.cache
+C:\Users\Admin_\Desktop\5_03_2024\po\gr_1\10_3_konstruktory\obj\Debug\10_3_konstruktory.csproj.CoreCompileInputs.cache
+C:\Users\Admin_\Desktop\5_03_2024\po\gr_1\10_3_konstruktory\obj\Debug\10_3_konstruktory.exe
+C:\Users\Admin_\Desktop\5_03_2024\po\gr_1\10_3_konstruktory\obj\Debug\10_3_konstruktory.pdb
