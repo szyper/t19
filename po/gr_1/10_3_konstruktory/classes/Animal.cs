@@ -31,7 +31,7 @@ namespace _10_3_konstruktory.classes
       Kind = Kind.Ssak; //ustawienie domyślnego rodzaju
     }
 
-    public Animal(string name, DateTime birthDate) :this(name)
+    public Animal(string name, DateTime birthDate) : this(name)
     {
       BirthDate = birthDate;
     }
@@ -68,7 +68,7 @@ namespace _10_3_konstruktory.classes
       //obliczenie wieku zwierzęcia w latach
       int age = DateTime.Now.Year - BirthDate.Year;
 
-      Console.WriteLine($"Wiek {Name} wynosi: {age} lata");
+      Console.WriteLine($"Wiek {Name} wynosi: {age}");
     }
   }
 }

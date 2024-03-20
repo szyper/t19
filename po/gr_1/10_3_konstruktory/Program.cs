@@ -11,6 +11,7 @@ namespace _10_3_konstruktory
   {
     static void Main(string[] args)
     {
+    #region showAnimal
       /*
       Animal a = new Animal("Burek");
       Console.WriteLine(a.Describe());
@@ -33,7 +34,8 @@ namespace _10_3_konstruktory
       Console.WriteLine(a4.Describe());
       a4.ShowAge();
       */
-
+    #endregion
+    
       //tworzenie listy zwierząt
       List<Animal> animals = new List<Animal>();
 
@@ -91,19 +93,148 @@ namespace _10_3_konstruktory
       }
     }
 
+    //metoda usuwająca zwierzę
     private static void RemoveAnimal(List<Animal> animals)
     {
-      throw new NotImplementedException();
+      Console.Clear();
+
+      //sprawdzenie czy lista jest pusta
+      if (animals.Count == 0)
+      {
+        Console.WriteLine("Nie ma żadnych zwierząt na liście");
+      }
+      else
+      {
+        //wyświetlenie podmenu z opcjami usuwania
+        Console.WriteLine("1. Usuń wszystkie zwierzęta");
+        Console.WriteLine("2. Usuń jedno zwierzę");
+
+        Console.Write("\nWybierz jedną z opcji:");
+
+        //wczytanie wyboru użytkownika
+        string choice = Console.ReadLine();
+
+        //obsługa wyboru użytkownika
+        switch(choice)
+        {
+          case "1":
+            //wyczyszczenie listy zwierząt
+            animals.Clear();
+
+            //wyświetlenie potwierdzenia
+            if (animals.Count == 0)
+            {
+              Console.WriteLine("\nUsunięto wszystkie zwierzęta\n");
+            }
+            break;
+          case "2":
+            //wyświetlenie listy zwierząt z numerami
+            for (int i = 0; i < animals.Count; i++)
+            {
+              Console.WriteLine((i + 1) + ". " + animals[i].Name);
+            }
+            Console.Write("\nPodaj numer zwierzęcia, które chcesz usunąć:");
+
+            //wczytanie numeru zwierzęcia od użytkownika
+            int index = int.Parse(Console.ReadLine()) - 1;
+
+            //sprawdzenie czy numer jest poprawny
+            if (index >= 0 && index < animals.Count)
+            {
+              //usunięcie zwierzęcia z listy
+              animals.RemoveAt(index);
+              Console.WriteLine("\nUsunięto zwierzę\n");
+            }
+            else
+            {
+              Console.WriteLine("Niepoprawny numer. Spróbuj ponownie");
+            }
+            break;
+            default:
+            Console.WriteLine("\nNiepoprawna opcja. Spróbuj ponownie");
+            break;
+        }
+      }
+      //wyświetlenie menu powrotu do menu głównego
+      Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do menu głównego");
+      Console.ReadKey();
+      ShowMainMenu(animals);
     }
 
+    //metoda pokazująca szczegóły zwierzęcia
     private static void ShowAnimalDetails(List<Animal> animals)
     {
-      throw new NotImplementedException();
+      Console.Clear();
+
+      //sprawdzenie czy lista jest pusta
+      if (animals.Count == 0)
+      {
+        Console.WriteLine("Nie ma żadnych zwierząt na liście");
+      }
+      else
+      {
+        //wyświetlenie listy zwierząt z numerami
+        for (int i = 0; i < animals.Count; i++)
+        {
+          Console.WriteLine((i + 1) + ". " + animals[i].Name);
+        }
+
+        //zapytanie użytkownika o numer zwierzęcia
+        Console.Write("\nPodaj numer zwierzęcia, którego szczegóły chcesz zobaczyć:");
+
+        //wczytanie numeru zwierzęcia od użytkownika
+        int index = int.Parse(Console.ReadLine()) - 1;
+
+        //sprawdzenie czy numer jest poprawny
+        if (index >= 0 && index < animals.Count)
+        {
+          //wyświetlenie szczegółów wybranego zwierzęcia
+          Animal animal = animals[index];
+          Console.WriteLine("Szczegóły zwierzęcia:");
+          //Console.WriteLine(animal.Describe());
+          Console.WriteLine("Nazwa: " + animal.Name);
+          Console.WriteLine("Data urodzenia: " + animal.BirthDate.ToShortDateString());
+          Console.WriteLine("Czy jest ssakiem: " + (animal.IsMammal ? "tak" : "nie"));
+          Console.WriteLine("Rodzaj: " + animal.Kind);
+          animal.ShowAge();
+        }
+        else
+        {
+          //wyświetlenie komunikatu o błędzie
+          Console.WriteLine("Niepoprawny numer. Spróbuj ponownie");
+        }
+      }
+      Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do menu głównego\n");
+      Console.ReadKey();
+      ShowMainMenu(animals);
     }
 
+    //metoda pokazująca listę zwierząt
     private static void ShowAnimalList(List<Animal> animals)
     {
-      throw new NotImplementedException();
+      Console.Clear();
+
+      //sprawdzenie czy lista jest pusta
+      if (animals.Count == 0)
+      {
+        //wyświetlenie komunikatu o braku zwierząt
+        Console.WriteLine("Nie ma żadnych zwierząt na liście");
+      }
+      else
+      {
+        //wyświetlenie nagłówka listy
+        Console.WriteLine("Lista zwierząt:");
+
+        //wyświetlenie nazw zwierząt z numerami
+        for (int i = 0; i < animals.Count; i++)
+        {
+          Console.WriteLine((i + 1) + ". " + animals[i].Name);
+        }
+      }
+      //wyświetlenie opcji powrotu do menu głównego
+      Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do menu głównego\n");
+      Console.ReadKey();
+      ShowMainMenu(animals);
     }
 
     //metoda dodająca nowe zwierzę
@@ -112,7 +243,7 @@ namespace _10_3_konstruktory
       //wyczyszczenie konsoli
       Console.Clear();
 
-      //wszytanie danych o zwierzęciu od użytkownika
+      //wczytanie danych o zwierzęciu od użytkownika
       Console.Write("Podaj nazwę zwierzęcia:");
       string name = Console.ReadLine();
       Console.Write("Podaj datę urodzenia zwierzęcia (w formacie RRRR-MM-DD):");
@@ -130,7 +261,7 @@ namespace _10_3_konstruktory
 
       //Wyświetlenie potwierdzenia
       Console.WriteLine("\nDodano nowe zwierzę: " + animal.Name);
-      Console.WriteLine("Naciśnij dowolny klawisz, aby wrócić do menu głównego\n");
+      Console.WriteLine("Wciśnij dowolny klawisz, aby wrócić do menu głównego\n");
       Console.ReadKey();
       ShowMainMenu(animals);
     }
@@ -155,4 +286,16 @@ Użyj listy generycznej List<Animal> do przechowywania zwierząt i korzystaj z j
 Użyj klasy Console i jej metod do komunikacji z użytkownikiem i obsługi wejścia i wyjścia.
 Użyj instrukcji switch lub if do obsługi różnych opcji menu i wywoływania odpowiednich metod.
 Użyj klasy DateTime i jej metod do przechowywania i obliczania daty urodzenia i wieku zwierzęcia.
+*/
+
+
+
+/*
+ * wielokrotnie powtarzamy kod:
+//wyświetlenie listy zwierząt z numerami
+        for (int i = 0; i < animals.Count; i++)
+        {
+          Console.WriteLine((i + 1) + ". " + animals[i].Name);
+        }
+zmodyfikuj powyższy kod i dodaj nową metodę o nazwie DisplayAnimals, która będzie statyczna typu void
 */

@@ -19,7 +19,7 @@
 	//tworzymy tablicę z flagami błędów
 	$errors = array();
 
-	//sprawdzamy czy imięjest niepuste i ma co najmniej 2 znaki
+	//sprawdzamy czy imię jest niepuste i ma co najmniej 2 znaki
 	if (empty($name) || strlen($name) < 2) {
 		$errors["name"] = "Proszę podać poprawne imię";
 	}
