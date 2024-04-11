@@ -1,0 +1,7 @@
+C:\Users\Admin_\Desktop\po\gr_2\11_1_destruktory\bin\Debug\11_1_destruktory.exe.config
+C:\Users\Admin_\Desktop\po\gr_2\11_1_destruktory\bin\Debug\11_1_destruktory.exe
+C:\Users\Admin_\Desktop\po\gr_2\11_1_destruktory\bin\Debug\11_1_destruktory.pdb
+C:\Users\Admin_\Desktop\po\gr_2\11_1_destruktory\obj\Debug\11_1_destruktory.csproj.AssemblyReference.cache
+C:\Users\Admin_\Desktop\po\gr_2\11_1_destruktory\obj\Debug\11_1_destruktory.csproj.CoreCompileInputs.cache
+C:\Users\Admin_\Desktop\po\gr_2\11_1_destruktory\obj\Debug\11_1_destruktory.exe
+C:\Users\Admin_\Desktop\po\gr_2\11_1_destruktory\obj\Debug\11_1_destruktory.pdb
