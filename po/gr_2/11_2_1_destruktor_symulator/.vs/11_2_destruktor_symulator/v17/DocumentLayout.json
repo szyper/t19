@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin_\\Desktop\\po\\gr_1\\11_2_destruktor_symulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{839E466C-9047-4F95-903D-24937F80D89B}|11_2_destruktor_symulator.csproj|c:\\users\\admin_\\desktop\\po\\gr_1\\11_2_destruktor_symulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839E466C-9047-4F95-903D-24937F80D89B}|11_2_destruktor_symulator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839E466C-9047-4F95-903D-24937F80D89B}|11_2_destruktor_symulator.csproj|c:\\users\\admin_\\desktop\\po\\gr_1\\11_2_destruktor_symulator\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839E466C-9047-4F95-903D-24937F80D89B}|11_2_destruktor_symulator.csproj|solutionrelative:classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin_\\Desktop\\po\\gr_1\\11_2_destruktor_symulator\\classes\\Car.cs",
+              "RelativeDocumentMoniker": "classes\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin_\\Desktop\\po\\gr_1\\11_2_destruktor_symulator\\classes\\Car.cs",
+              "RelativeToolTip": "classes\\Car.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:10:13.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin_\\Desktop\\po\\gr_1\\11_2_destruktor_symulator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin_\\Desktop\\po\\gr_1\\11_2_destruktor_symulator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T06:09:00.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

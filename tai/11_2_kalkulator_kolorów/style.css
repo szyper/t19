@@ -1,0 +1,30 @@
+        body {
+            font-family: Arial, sans-serif;
+            transition: background-color 0.3s ease; /* Dodaj animację przejścia */
+        }
+        .color-form {
+            display: flex;
+            align-items: center;
+        }
+        .color-slider {
+            width: 200px;
+            margin-right: 10px;
+        }
+        .color-preview {
+            width: 100px;
+            height: 100px;
+            border: 1px solid #000;
+            transition: background-color 0.3s ease;
+        }
+        .cmyk-sliders {
+            display: none;
+        }
+        .alpha-slider {
+            width: 200px;
+            margin-top: 10px;
+        }
+        /* Dodaj styl dla trybu nocnego */
+        .night-mode {
+            background-color: #333;
+            color: #fff;
+        }

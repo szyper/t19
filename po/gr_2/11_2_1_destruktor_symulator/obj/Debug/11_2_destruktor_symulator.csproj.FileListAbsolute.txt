@@ -1,0 +1,14 @@
+C:\Users\Admin_\Desktop\po\gr_1\11_2_destruktor_symulator\bin\Debug\11_2_destruktor_symulator.exe.config
+C:\Users\Admin_\Desktop\po\gr_1\11_2_destruktor_symulator\bin\Debug\11_2_destruktor_symulator.exe
+C:\Users\Admin_\Desktop\po\gr_1\11_2_destruktor_symulator\bin\Debug\11_2_destruktor_symulator.pdb
+C:\Users\Admin_\Desktop\po\gr_1\11_2_destruktor_symulator\obj\Debug\11_2_destruktor_symulator.csproj.AssemblyReference.cache
+C:\Users\Admin_\Desktop\po\gr_1\11_2_destruktor_symulator\obj\Debug\11_2_destruktor_symulator.csproj.CoreCompileInputs.cache
+C:\Users\Admin_\Desktop\po\gr_1\11_2_destruktor_symulator\obj\Debug\11_2_destruktor_symulator.exe
+C:\Users\Admin_\Desktop\po\gr_1\11_2_destruktor_symulator\obj\Debug\11_2_destruktor_symulator.pdb
+C:\xampp\htdocs\git\t19\po\gr_1\11_2_1_destruktor_symulator\bin\Debug\11_2_destruktor_symulator.exe.config
+C:\xampp\htdocs\git\t19\po\gr_1\11_2_1_destruktor_symulator\bin\Debug\11_2_destruktor_symulator.exe
+C:\xampp\htdocs\git\t19\po\gr_1\11_2_1_destruktor_symulator\bin\Debug\11_2_destruktor_symulator.pdb
+C:\xampp\htdocs\git\t19\po\gr_1\11_2_1_destruktor_symulator\obj\Debug\11_2_destruktor_symulator.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\t19\po\gr_1\11_2_1_destruktor_symulator\obj\Debug\11_2_destruktor_symulator.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\t19\po\gr_1\11_2_1_destruktor_symulator\obj\Debug\11_2_destruktor_symulator.exe
+C:\xampp\htdocs\git\t19\po\gr_1\11_2_1_destruktor_symulator\obj\Debug\11_2_destruktor_symulator.pdb

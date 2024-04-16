@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<title>Kalkulator Kolorów</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+  .color-display {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000;
+    margin-bottom: 10px;
+  }
+  #dt1, #dt2 {
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 5px;
+  }
+  .night-mode {
+    background-color: #333;
+    color: white;
+  }
+</style>
+</head>
+<body>
+
+<div id="colorPicker">
+  <div class="color-display" id="colorDisplay"></div>
+  <label for="red">Czerwony:</label>
+  <input type="range" id="red" name="red" min="0" max="255"><br>
+  <label for="green">Zielony:</label>
+  <input type="range" id="green" name="green" min="0" max="255"><br>
+  <label for="blue">Niebieski:</label>
+  <input type="range" id="blue" name="blue" min="0" max="255"><br>
+  <label for="alpha">Przezroczystość:</label>
+  <input type="range" id="alpha" name="alpha" min="0" max="1" step="0.01"><br>
+  <button id="randomColor">Losuj kolor</button>
+  <button id="nightMode">Tryb nocny</button>
+  <p>Wybrany kolor: <span id="colorValue"></span></p>
+  <label for="elementSelect">Wybierz element:</label>
+  <select id="elementSelect">
+    <option value="dt1">Element dt1</option>
+    <option value="dt2">Element dt2</option>
+  </select>
+</div>
+
+
+
+
+<div id="dt1" class="color-display">Element dt1</div>
+<div id="dt2" class="color-display">Element dt2</div>
+
+<script>
+
+var colors = {
+    dt1: { red: 255, green: 255, blue: 255, alpha: 1 },
+    dt2: { red: 255, green: 255, blue: 255, alpha: 1 }
+  };
+
+  function updateSliders(elementId) {
+    var color = colors[elementId];
+    document.getElementById('red').value = color.red;
+    document.getElementById('green').value = color.green;
+    document.getElementById('blue').value = color.blue;
+    document.getElementById('alpha').value = color.alpha;
+    updateColor();
+  }
+
+  document.getElementById('elementSelect').addEventListener('change', function() {
+    updateSliders(this.value);
+  });
+
+  function updateColor() {
+    var red = document.getElementById('red').value;
+    var green = document.getElementById('green').value;
+    var blue = document.getElementById('blue').value;
+    var alpha = document.getElementById('alpha').value;
+    var colorValue = 'rgba(' + red + ',' + green + ',' + blue + ',' + alpha + ')';
+    var selectedElementId = document.getElementById('elementSelect').value;
+    var selectedElement = document.getElementById(selectedElementId);
+    selectedElement.style.backgroundColor = colorValue;
+    document.getElementById('colorDisplay').style.backgroundColor = colorValue;
+    document.getElementById('colorValue').textContent = 'Red: ' + red + ', Green: ' + green + ', Blue: ' + blue + ', Alpha: ' + alpha;
+
+    // Aktualizacja przechowywanych wartości kolorów
+    colors[selectedElementId] = { red: red, green: green, blue: blue, alpha: alpha };
+  }
+
+  document.getElementById('red').addEventListener('input', updateColor);
+  document.getElementById('green').addEventListener('input', updateColor);
+  document.getElementById('blue').addEventListener('input', updateColor);
+  document.getElementById('alpha').addEventListener('input', updateColor);
+
+  document.getElementById('randomColor').addEventListener('click', function() {
+    document.getElementById('red').value = Math.floor(Math.random() * 256);
+    document.getElementById('green').value = Math.floor(Math.random() * 256);
+    document.getElementById('blue').value = Math.floor(Math.random() * 256);
+    document.getElementById('alpha').value = Math.random().toFixed(2);
+    updateColor();
+  });
+
+  document.getElementById('nightMode').addEventListener('click', function() {
+    document.body.classList.toggle('night-mode');
+  });
+</script>
+
+</body>
+</html>
