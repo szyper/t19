@@ -1,0 +1,23 @@
+form {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
+
+input[type=text], input[type=email], select, textarea {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+input[type=submit] {
+  padding: 10px 15px;
+  background-color: #008cba;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover{
+  background-color: #005f73;
+}

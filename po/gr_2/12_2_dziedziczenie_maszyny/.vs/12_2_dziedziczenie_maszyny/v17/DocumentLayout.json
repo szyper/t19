@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|c:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\machinesimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|solutionrelative:classes\\machinesimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|solutionrelative:classes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\crane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|solutionrelative:classes\\crane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\bulldozer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|solutionrelative:classes\\bulldozer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\excavator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|solutionrelative:classes\\excavator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6974918B-CC7C-49AF-BEE2-C1BAE29BB093}|12_2_dziedziczenie_maszyny.csproj|solutionrelative:classes\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MachineSimulator.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\MachineSimulator.cs",
+              "RelativeDocumentMoniker": "classes\\MachineSimulator.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\MachineSimulator.cs",
+              "RelativeToolTip": "classes\\MachineSimulator.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:24:34.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\Loader.cs",
+              "RelativeDocumentMoniker": "classes\\Loader.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\Loader.cs",
+              "RelativeToolTip": "classes\\Loader.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:03:36.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bulldozer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\Bulldozer.cs",
+              "RelativeDocumentMoniker": "classes\\Bulldozer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\Bulldozer.cs",
+              "RelativeToolTip": "classes\\Bulldozer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:43:17.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crane.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\Crane.cs",
+              "RelativeDocumentMoniker": "classes\\Crane.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\Crane.cs",
+              "RelativeToolTip": "classes\\Crane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:38:46.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Excavator.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\Excavator.cs",
+              "RelativeDocumentMoniker": "classes\\Excavator.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\Excavator.cs",
+              "RelativeToolTip": "classes\\Excavator.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:37:09.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\Machine.cs",
+              "RelativeDocumentMoniker": "classes\\Machine.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\classes\\Machine.cs",
+              "RelativeToolTip": "classes\\Machine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:26:52.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\t19\\po\\gr_1\\12_2_dziedziczenie_maszyny\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:25:36.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
