@@ -48,6 +48,7 @@
     <Compile Include="classes\Excavator.cs" />
     <Compile Include="classes\Loader.cs" />
     <Compile Include="classes\Machine.cs" />
+    <Compile Include="classes\MachineFactory.cs" />
     <Compile Include="classes\MachineSimulator.cs" />
     <Compile Include="classes\MachineTypeManager.cs" />
     <Compile Include="classes\MenuManager.cs" />

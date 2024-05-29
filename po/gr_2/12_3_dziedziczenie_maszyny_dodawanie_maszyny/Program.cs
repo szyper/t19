@@ -11,13 +11,9 @@ namespace _12_2_dziedziczenie_maszyny
   {
     static void Main(string[] args)
     {
-      Excavator e = new Excavator("e-100", MachineType.Excavator);
-
       MachineSimulator simulator = new MachineSimulator();
       MachineTypeManager typeManager = new MachineTypeManager();
       MenuManager menuManager = new MenuManager();
-
-      simulator.AddMachine(e);
 
       string userInput = "";
 
@@ -27,7 +23,7 @@ namespace _12_2_dziedziczenie_maszyny
         Console.Write("Wybierz opcję:");
         userInput = menuManager.GetUserInput();
         menuManager.ExecuteAction(userInput, simulator, typeManager);
-      } while (userInput != "9");
+      } while (userInput != "10");
 
 
 
